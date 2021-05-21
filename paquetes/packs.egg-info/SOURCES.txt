@@ -1,0 +1,9 @@
+setup.py
+packs.egg-info/PKG-INFO
+packs.egg-info/SOURCES.txt
+packs.egg-info/dependency_links.txt
+packs.egg-info/top_level.txt
+paquetes/__init__.py
+paquetes/operaciones.py
+paquetes/operacionesbasicas/__init__.py
+paquetes/operacionesbasicas/basicas.py
